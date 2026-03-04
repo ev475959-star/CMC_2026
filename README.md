@@ -1,6 +1,6 @@
 # World Knowledge Championship 2026: Official Call for Entries
 
-This repository houses the complete compendium of 158 specialized calls for entries for the **World Knowledge Championship 2026**. 
+This repository houses the complete compendium of 330 specialized calls for entries for the **World Knowledge Championship 2026**. 
 
 ## Objective
 The World Knowledge Championship is a premier global initiative designed to identify, assess, and integrate top-tier talent and innovative proposals across a wide spectrum of academic, engineering, and management disciplines. Through these targeted calls, we invite leading experts, researchers, and professionals to contribute their specialized knowledge toward shaping high-impact solutions to global challenges.
